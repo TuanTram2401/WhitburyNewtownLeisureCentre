@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=WhitburyNewtownLeisureCentre
+comment1.params=title
+comment1.target=WhitburyNewtownLeisureCentre(java.lang.String)
+comment10.params=evt
+comment10.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ showTable()
+comment3.params=
+comment3.target=void\ searchByTown()
+comment4.params=
+comment4.target=void\ searchMemberBymembership()
+comment5.params=
+comment5.target=void\ add()
+comment6.params=deleteMemberID
+comment6.target=void\ delete(java.lang.String)
+comment7.params=searchMemberID
+comment7.target=void\ edit(java.lang.String)
+comment8.params=
+comment8.target=void\ saveEdit()
+comment9.params=
+comment9.target=void\ Reset()
+numComments=12
